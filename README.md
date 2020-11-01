@@ -12,6 +12,7 @@ The employee have four different states including the following
 - IN-CHECK
 - APPROVED
 - ACTIVE
+- INACTIVE
 
 Your task is to build a frontend application using React including the following features.
 
