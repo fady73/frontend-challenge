@@ -24,6 +24,9 @@ Your task is to build a frontend application using React including the following
   
 - In Every employee row, there should be a component as per the provided picture which will be used to display the current state of this employee and by clicking on another state e.g. APPROVED , it should persist that change to this given employee.
 
+![alt text](https://github.com/[peopleflw]/[frontend-challenge]/blob/[main]/states.png?raw=true)
+
+
 
 
 
