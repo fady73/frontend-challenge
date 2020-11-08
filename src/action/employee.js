@@ -23,7 +23,7 @@ export const updateEmployee = async (id, payload) => {
 
 export const createEmployee = async (payload) => {
   try {
-    const response = await http.post(`/employsee`, payload);
+    const response = await http.post(`/employee`, payload);
     notify("Employee created successfully ", "success");
     return response;
   } catch (e) {
